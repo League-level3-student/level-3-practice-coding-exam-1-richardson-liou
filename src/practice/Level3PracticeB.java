@@ -7,6 +7,8 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
+import com.sun.tools.classfile.Dependency.Finder;
+
 public class Level3PracticeB {
 
 	private Finder finder = new Finder();
